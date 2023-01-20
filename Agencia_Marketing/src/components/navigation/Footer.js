@@ -1,4 +1,4 @@
-import { connect } from "react-redux"
+import { connect, Connect } from "react-redux"
 
 
 function Footer(){

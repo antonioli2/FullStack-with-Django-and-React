@@ -6,7 +6,9 @@ function Home(){
     return(
         <Layout>
             <Navbar/>
+            <div className="pt-28">
             Home
+            </div>
             <Footer/>
         </Layout>
     )
